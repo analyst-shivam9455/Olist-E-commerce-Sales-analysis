@@ -2,7 +2,7 @@
 This project analyzes Olist e-commerce sales data using Power BI. The dashboard helps uncover insights into sales trends, customer behavior, product performance, payments, and seller distribution.
 
 ###### Dashboard Link:- https://app.powerbi.com/view?r=eyJrIjoiNmUyOWVkYzUtOWIwYy00MjQ2LTg2ZDItZDI2ZjllYjcxNzU5IiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
-
+##### Dataset Link :- https://drive.google.com/drive/u/0/folders/1bDDvlpqyYHc0tBYXrx3h-cNheQARD4eg
 
 ## Overview
 
